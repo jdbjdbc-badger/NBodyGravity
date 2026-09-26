@@ -1,0 +1,7 @@
+PASS: 252 comparisons, 252 exact matches, plus 2 analytic cases.
+PASS: 2 ode45 trajectories; differences 0, 0.
+N=3: original 0.000979962 s; pair-once 4.8507e-05 s; ratio 20.2x
+N=16: original 0.00757194 s; pair-once 0.0012978 s; ratio 5.83x
+N=64: original 0.0630875 s; pair-once 0.0226655 s; ratio 2.78x
+N=128: original 0.214591 s; pair-once 0.087997 s; ratio 2.44x
+Saved octave_validation_results.json (GNU Octave 10.3.0).
